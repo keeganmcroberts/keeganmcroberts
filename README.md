@@ -16,7 +16,7 @@ Concert Tracker - [Repo](https://github.com/keeganmcroberts/CapstoneProject) | [
   - Customized a database schema built with the MVC pattern in Ruby on Rails to simulate the experience of viewing real-life upcoming concerts. 
   - Utilized BCrypt for user authentication/authorization in order to ensure safe and secure login. 
 
-Um - [Repo](https://github.com/keeganmcroberts/Rails-React-Uno) | [Demo]([https://vimeo.com/manage/videos/751391631](https://www.loom.com/share/4b7d52ff4ef54457bd38cca5b83f35fa))
+Um - [Repo](https://github.com/keeganmcroberts/Rails-React-Uno) | [Demo](https://www.loom.com/share/4b7d52ff4ef54457bd38cca5b83f35fa)
 - 🎴ReactJS front-end and Ruby on Rails back-end
 - A new take on everybody’s favorite family-friendly card game, Uno. 
   - Customized a ReactJS front-end with unique CSS to simulate a true online game-like experience for the user.

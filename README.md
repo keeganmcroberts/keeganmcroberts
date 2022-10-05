@@ -9,14 +9,29 @@ I approach coding with the same approach that I take with many of my other life'
 
 ## :computer:Projects:
 
-Concert Tracker - [Repo](https://github.com/keeganmcroberts/CapstoneProject) | [Demo](https://vimeo.com/manage/videos/751383493/privacy)
+Concert Tracker - [Repo](https://github.com/keeganmcroberts/CapstoneProject) | [Demo](https://www.loom.com/share/961db6b743d848a7b56ca38cb68a90f6)
 - :ticket:ReactJS front-end and Ruby on Rails back-end
-- A sleak concert tracking website which allows a user to sign in, search for concerts based on a city, artist, or venue, and track each band/ venue by adding them to their personal profile.
+- A concert tracking website which allows easy access for finding upcoming shows by date, city, venue, or band. 
+  - Constructed with ReactJS front-end and customized CSS in order to provide a seamless user experience and easy website navigation.
+  - Customized a database schema built with the MVC pattern in Ruby on Rails to simulate the experience of viewing real-life upcoming concerts. 
+  - Utilized BCrypt for user authentication/authorization in order to ensure safe and secure login. 
 
+Um - [Repo](https://github.com/keeganmcroberts/Rails-React-Uno) | [Demo]([https://vimeo.com/manage/videos/751391631](https://www.loom.com/share/4b7d52ff4ef54457bd38cca5b83f35fa))
+- 🎴:ReactJS front-end and Ruby on Rails back-end
+- A new take on everybody’s favorite family-friendly card game, Uno. 
+  - Customized a ReactJS front-end with unique CSS to simulate a true online game-like experience for the user.
+  - Integrated personalized card data using the MVC pattern in Rails in order to seamlessly fetch the database. 
+  - Built fully functioning Uno logic for each unique card using JavaScript front-end to provide a full-game experience. 
 
-An Immersive Game Review - [Repo](https://github.com/Isa-deQuadros/Phase-2-Project-) | [Demo](https://vimeo.com/manage/videos/751391631)
+An Immersive Game Review - [Repo](https://github.com/keeganmcroberts/Immersive-Game-Review) | [Demo](https://www.loom.com/share/1a7ef50e56dc48a5bf02847f8a39920c)
 - :video_game:ReactJs front-end and db.json simulating the backend
-- An immersive game review app to help users view/rate games, game reviews, game trailers, and listen to game soundtracks. 
+- An immersive game app where users can see their favorite games, game trailers, game scores, and game reviews. 
+  - Created fully with ReactJS on the front-end and custom db.JSON framework.
+  - Embedded video players using third-party React components in order to view game trailers.
+  - Incorporated pre-built JavaScript classes such as the Audio object to add soundtrack listening. 
+
+
+
  
 
 

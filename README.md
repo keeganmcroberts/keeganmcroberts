@@ -17,7 +17,7 @@ Concert Tracker - [Repo](https://github.com/keeganmcroberts/CapstoneProject) | [
   - Utilized BCrypt for user authentication/authorization in order to ensure safe and secure login. 
 
 Um - [Repo](https://github.com/keeganmcroberts/Rails-React-Uno) | [Demo]([https://vimeo.com/manage/videos/751391631](https://www.loom.com/share/4b7d52ff4ef54457bd38cca5b83f35fa))
-- 🎴:ReactJS front-end and Ruby on Rails back-end
+- 🎴ReactJS front-end and Ruby on Rails back-end
 - A new take on everybody’s favorite family-friendly card game, Uno. 
   - Customized a ReactJS front-end with unique CSS to simulate a true online game-like experience for the user.
   - Integrated personalized card data using the MVC pattern in Rails in order to seamlessly fetch the database. 

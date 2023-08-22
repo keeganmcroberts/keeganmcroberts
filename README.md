@@ -1,10 +1,6 @@
 ## :earth_americas:Hey! Im Keegan!
 
-Recently graduated full-stack Software Enginner who loves to learn and looks forward to mastering my abilities in this industry. 
-
-I love collaborating on projects and working in teams in order to accomplish the goal at hand. I believe learning is a cooperative process and love to learn something new about coding every time I work with my peers. 
-
-I approach coding with the same approach that I take with many of my other life's passions - whether it be playing a new sport, learning a new song on a guitar, or beating a hard video game - I embrace the challenge and love to push myself. 
+I am a Full Stack Software Engineer with extensive training in Javascript, ReactJS, and Ruby on Rails. After having completed my undergraduate studies at Colorado State University with a BS in Public Health and Exercise science, I worked shortly in the healthcare field as a Registered Behavior Technician. With my recent career transition, I decided to take my creative outlook, collaboration skills, and adaptable mindset into the tech field.
 
 
 ## :computer:Projects:

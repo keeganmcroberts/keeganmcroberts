@@ -1,6 +1,6 @@
-## :earth_americas:Hey! Im Keegan!
+## :earth_americas:Hey, Im Keegan!
 
-I am a Full Stack Software Engineer with extensive training in Javascript, ReactJS, and Ruby on Rails. After having completed my undergraduate studies at Colorado State University with a BS in Public Health and Exercise science, I worked shortly in the healthcare field as a Registered Behavior Technician. With my recent career transition, I decided to take my creative outlook, collaboration skills, and adaptable mindset into the tech field.
+I am a Full Stack Software Engineer with extensive training in Javascript, ReactJS, and Ruby on Rails. After having completed my undergraduate studies at Colorado State University with a BS in Public Health and Exercise science, I worked shortly in the healthcare field as a Registered Behavior Technician. With a recent career transition, I decided to take my creative outlook, collaboration skills, and adaptable mindset into the tech field.
 
 
 ## :computer:Projects:
